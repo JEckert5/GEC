@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "compilerPath": "/usr/bin/clang++",
+      "includePath": ["/opt/homebrew/Cellar/glfw/3.3.9/include"]
+    }
+  ],
+  "version": 4
+}
