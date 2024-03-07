@@ -4,3 +4,7 @@
 **/*/*/x64/
 SoundExample/
 OpenGLSetup/
+SpriteExample/
+CameraZoomExample/
+2DTransformExample/
+*.zip
