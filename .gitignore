@@ -2,6 +2,8 @@
 **/*/.vs
 **/*/x64/
 **/*/*/x64/
+*Example/
+*Examples/
 SoundExample/
 OpenGLSetup/
 SpriteExample/

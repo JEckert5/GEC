@@ -10,7 +10,7 @@
 struct Audio {
 	Audio() = delete;
 
-	Audio(const std::string& path, const float vol = 1, const bool loop = false): volume(vol), looped(loop) {
+	Audio(std::string path, const float vol = 1, const bool loop = false): file(std::move(path)), volume(vol), looped(loop) {
 		engine = irrklang::createIrrKlangDevice();
 		engine->setSoundVolume(volume);
 	}

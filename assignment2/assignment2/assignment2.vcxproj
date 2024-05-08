@@ -110,7 +110,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>glew32.lib;FreeImage.lib;irrKlang.lib;freeglut.lib;opengl32.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>freetype.lib;glew32.lib;FreeImage.lib;irrKlang.lib;freeglut.lib;opengl32.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
       <AdditionalLibraryDirectories>./lib</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
@@ -131,23 +131,30 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\Sprite.cpp" />
+    <ClCompile Include="src\Item.cpp" />
+    <ClCompile Include="src\Player.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\Object.cpp" />
-    <ClCompile Include="src\Player.cpp" />
-    <ClCompile Include="src\Scene.cpp" />
     <ClCompile Include="src\Shader.cpp" />
     <ClCompile Include="src\Texture.cpp" />
+    <ClCompile Include="src\Text.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="headers\Audio.hpp" />
+    <ClInclude Include="headers\Char.hpp" />
     <ClInclude Include="headers\Mesh.hpp" />
     <ClInclude Include="headers\Object.hpp" />
-    <ClInclude Include="headers\Player.hpp" />
-    <ClInclude Include="headers\Scene.hpp" />
     <ClInclude Include="headers\Shader.hpp" />
     <ClInclude Include="headers\Texture.hpp" />
+    <ClInclude Include="headers\Text.hpp" />
+    <ClInclude Include="headers\Player.hpp" />
+    <ClInclude Include="headers\Item.hpp" />
+    <ClInclude Include="headers\Sprite.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="shaders\charfragment.glsl" />
+    <None Include="shaders\charvertex.glsl" />
     <None Include="shaders\fragment.glsl" />
     <None Include="shaders\vertex.glsl" />
   </ItemGroup>

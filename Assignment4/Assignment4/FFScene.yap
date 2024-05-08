@@ -1,0 +1,74 @@
+73
+0 ground1 0 0 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground2 1 0 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground3 2 0 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground4 3 0 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground5 4 0 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground6 5 0 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground7 0 1 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground8 1 1 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground9 2 1 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground10 3 1 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground11 4 1 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground12 5 1 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground13 0 2 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground14 1 2 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground15 2 2 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground16 3 2 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground17 4 2 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground18 5 2 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground19 0 3 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground20 1 3 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground21 2 3 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground22 3 3 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground23 4 3 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground24 5 3 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground25 0 4 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground26 1 4 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground27 2 4 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground28 3 4 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground29 4 4 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground30 5 4 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground31 0 5 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground32 1 5 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground33 2 5 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground34 3 5 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground35 4 5 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 ground36 5 5 0 2 2 1 0 0 0 textures/ground.png 1 1 0
+0 perim-1 -1 -1 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim0 0 -1 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim1 1 -1 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim2 2 -1 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim3 3 -1 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim4 4 -1 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim5 5 -1 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim6 6 -1 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim-1 -1 0 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim6 6 0 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim-1 -1 1 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim6 6 1 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim-1 -1 2 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim6 6 2 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim-1 -1 3 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim6 6 3 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim-1 -1 4 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim6 6 4 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim-1 -1 5 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim6 6 5 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim-1 -1 6 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim0 0 6 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim1 1 6 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim2 2 6 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim3 3 6 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim4 4 6 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim5 5 6 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 perim6 6 6 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 battleGround0 -10 -10 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 battleGround1 -9 -10 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 battleGround1 -10 -9 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+0 battleGround2 -9 -9 0 2 2 1 0 0 0 textures/obstacle.png 1 1 0
+2 Player 0 0 0 1 1 1 0 0 0  1 0 0 0 0.7
+3 Enemy1 2 2 0 0.5 0.5 1 0 0 0  1 1 0
+3 Enemy2 1.3 1.3 0 0.5 0.5 1 0 0 0  1 1 0
+3 Enemy3 2.6 2.6 0 0.5 0.5 1 0 0 0  1 1 0
+3 Enemy4 3.9 3.9 0 0.5 0.5 1 0 0 0  1 1 0

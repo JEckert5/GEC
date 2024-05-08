@@ -1,10 +1,16 @@
 #include "Player.hpp"
 
-Player::Player(Shader* shader) : Object(Square, shader, "textures/player.png") { }
-
-
-void Player::update(const int deltaTime, const int elapsedTime) {
-	// Take input
-
-	Object::update(deltaTime, elapsedTime); // Update transform matrix
+Player::Player(Shader* shader)
+	: Sprite(
+		Square, 
+		shader,
+		{ "textures/spriteSheet.png" }, 
+		1.0 / 16.0, 
+		1.0 / 16.0,
+		8, 
+		1,
+		0.2f,
+		2)
+{
+	
 }

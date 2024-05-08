@@ -7,8 +7,7 @@
 #include "FreeImage/FreeImage.h"
 #include <iostream>
 
-class Texture {
-public:
+struct Texture {
 	Texture(const std::string& path);
 	Texture() = default;
 

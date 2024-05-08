@@ -2,14 +2,15 @@
 
 #ifndef PLAYER_HPP
 #define PLAYER_HPP
-
 #include "Object.hpp"
+#include "Sprite.hpp"
 
-class Player: public Object {
+class Player : public Sprite {
 public:
-	Player(Shader* shader);
+    Player() = default;
+    Player(Shader* shader);
 
-	void update(const int deltaTime, const int elapsedTime) override;
+    // void update(const double deltaTime, const double elapsedTime) override;
 };
 
 #endif
